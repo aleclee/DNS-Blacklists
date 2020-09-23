@@ -1,8 +1,9 @@
 sort AdHosts.txt > a
 mv a AdHosts.txt
+
 sort TimeWasters.txt > t
 mv t TimeWasters.txt
-less TimeWasters.txt
+
 git add .
 git commit -m "Updates"
 git push
