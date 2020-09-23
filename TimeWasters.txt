@@ -13,6 +13,7 @@ armorgamesstudios.com
 az4bq.g01.ign.com
 bbstatic.ign.com
 bdc9uy.g01.ign.com
+bngames.com
 bochsi.g01.ign.com
 bxcogl.g01.ign.com
 cache.armorgames.com
@@ -37,6 +38,7 @@ files.armorgames.com
 files.crazygames.com
 forum.conartistgames.com
 freegamesjungle.com
+freeonlinegames.com
 freestar-io.videoplayerhub.com
 freshnewgames.com
 fun1.arcadeprehacks.com
@@ -91,6 +93,11 @@ minecraft-wallet.commerce.gameservices.xboxlive.com
 minecraftprod.rtep.msgamestudios.com
 mobile.armorgames.com
 mutantalienassault.com
+myboxinggames.com
+mydefensegames.com
+mydrivinggames.com
+mystickgames.com
+mytankgames.com
 play.gamepix.com
 play.inpvp.net
 player.aniplayer.net
@@ -109,13 +116,17 @@ s.ign.com
 sdk.crazygames.com
 secure.globalsign.com
 services.armorgames.com
+shootinggamesfun.com
+sky9games.com
 ssl-webplayer.unity3d.com
 static.gamespot.com
 store.armorgames.com
 support.armorgames.com
+taskgames.com
 themediashop-co.videoplayerhub.com
 urbandictionary-com.videoplayerhub.com
 videos.crazygames.com
+wargaming.net
 webplayer.unity3d.com
 worldoftanks.com
 worldoftanks.eu
