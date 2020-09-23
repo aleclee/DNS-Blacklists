@@ -117,8 +117,13 @@ themediashop-co.videoplayerhub.com
 urbandictionary-com.videoplayerhub.com
 videos.crazygames.com
 webplayer.unity3d.com
+worldoftanks.com
+worldoftanks.eu
+worldoftanks.ru
 worldofwarships.asia
 worldofwarships.com
+worldofwarships.eu
+worldofwarships.ru
 ws-comments.ign.com
 ww1.popfreegames.com
 ww7.popfreegames.com

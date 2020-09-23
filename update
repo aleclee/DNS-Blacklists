@@ -1,7 +1,7 @@
-sort AdHosts.txt > a
+sort AdHosts.txt | uniq > a
 mv a AdHosts.txt
 
-sort TimeWasters.txt > t
+sort TimeWasters.txt | uniq > t
 mv t TimeWasters.txt
 
 git add .
