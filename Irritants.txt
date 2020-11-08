@@ -2,3 +2,5 @@ facebook.com
 m.facebook.com
 www.facebook.com
 scontent-den4-1.xx.fbcdn.net
+static.xx.fbcdn.net
+scontent.fapa1-2.fna.fbcdn.net
